@@ -11,7 +11,7 @@ WARNING: SPANISH ONLY!
 Controls:
 - Mouse only
 	1. Read the letter
-	2. Decide who's letter it is
+	2. Decide whose letter it is
 	3. Throw the letter clicking in their direction
 
 You can play it here: https://artemiscg.itch.io/letter-please
